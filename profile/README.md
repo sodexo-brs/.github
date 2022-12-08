@@ -13,5 +13,5 @@ Our services include Benefits and Rewards Services, Catering Services, Facility 
 
 
 ## Job-Offers
-https://www.sodexo.de/karriere/#offene_Stellen
-https://www.linkedin.com/company/sodexo-benefits-and-rewards-services/jobs/
+- https://www.sodexo.de/karriere/#offene_Stellen
+- https://www.linkedin.com/company/sodexo-benefits-and-rewards-services/jobs/
